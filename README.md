@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://x.com/Prashan24013138?t=TfzqamfduMoPpyht87yCbQ&s=09" target="blank">
-    <img src="https://img.shields.io/twitter/follow/pratikkkk_23?logo=twitter&style=for-the-badge" alt="pratikkkk_23" />
+    
   </a>
 </p>
 
@@ -21,9 +21,7 @@
   <a href="https://x.com/Prashan24013138?t=TfzqamfduMoPpyht87yCbQ&s=09" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="www.linkedin.com/in/
-prashant-thombre-61038b237
-" target="blank">
+  <a href="https://www.linkedin.com/in/prashant-thombre-61038b237/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/_pashya_1507/profilecard/?igsh=MTY4cnExcXFveXRreA==" target="blank">
