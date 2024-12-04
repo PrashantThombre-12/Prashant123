@@ -1,33 +1,35 @@
 <h1 align="center">Hi 👋, I'm Prashant Thombre</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
-  <a href="https://twitter.com/pratikkkk_23" target="blank">
+  <a href="https://x.com/Prashan24013138?t=TfzqamfduMoPpyht87yCbQ&s=09" target="blank">
     <img src="https://img.shields.io/twitter/follow/pratikkkk_23?logo=twitter&style=for-the-badge" alt="pratikkkk_23" />
   </a>
 </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/PrashantThombre-12)
-- 💬 Ask me about **C programming language**
+- 💬 Ask me about **Java programming language**
 - 📫 How to reach me: **prashantthombre12.skn.it@gmail.com**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/pratikkkk_23" target="blank">
+  <a href="https://x.com/Prashan24013138?t=TfzqamfduMoPpyht87yCbQ&s=09" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/pratik-bhusari-b03312121" target="blank">
+  <a href="www.linkedin.com/in/
+prashant-thombre-61038b237
+" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/pratikkkk.23" target="blank">
+  <a href="https://www.instagram.com/_pashya_1507/profilecard/?igsh=MTY4cnExcXFveXRreA==" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/pratikbhusari77" target="blank">
+  <a href="https://www.hackerrank.com/profile/thombreprashant1 target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
