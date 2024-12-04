@@ -29,7 +29,7 @@ prashant-thombre-61038b237
   <a href="https://www.instagram.com/_pashya_1507/profilecard/?igsh=MTY4cnExcXFveXRreA==" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/profile/thombreprashant1 target="blank">
+  <a href="https://www.hackerrank.com/profile/thombreprashant1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
