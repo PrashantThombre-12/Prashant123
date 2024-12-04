@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Thombre</h1>
 <h3 align="center">A passionate Software Developer </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/vYRGEqU7cB9rR9SP7">
 
 <p align="left">
   <a href="https://x.com/Prashan24013138?t=TfzqamfduMoPpyht87yCbQ&s=09" target="blank">
